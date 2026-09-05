@@ -34,6 +34,17 @@
       "icon": "./client/cgtechvibeapi/icon-192.png",
       "url": "https://script.google.com/macros/s/AKfycbwiiCUwwG2qSzUk6w7riYoqd4IQGMK7Ejw6AmNWTjtpDm69OogNFyENY9fK4F5PxHyB/exec",
       "visible": true
+    },
+    {
+      "id": "licenser",
+      "path": "licenser",
+      "name": "License Manager",
+      "description": "CGTechVibe WebApp Licensing Software",
+      "clientName": "CGTechVibe License",
+      "phone": "01125816662",
+      "icon": "./client/licenser/icon-192.png",
+      "url": "https://script.google.com/macros/s/AKfycbyYS0eZPd9Cgm5SClaQcHvO8uyIsLwNUiG-jzlg3A8a9YAEmYdsWX41aCCfeJQ2RHOQVA/exec",
+      "visible": true
     }
   ]
 }
